@@ -1,4 +1,4 @@
-#Application Overview
+## Application Overview
 
 This application had been written in on Visual studio code in JavaScript with React.
 The application consists of 3 major components, App, NavBar and MovieDetails.
@@ -9,3 +9,5 @@ When the button is clicked, MovieDeatils components send the selection all the w
 the selected favorite movie is stored in the browser local storage, means the selection will be saved also when the website is closed.
 
 I used Bootstrap for the styling of the movie list and the movie details card. I also used bootstrap grid system for the responsible view.
+
+Thanks for the challenge.
