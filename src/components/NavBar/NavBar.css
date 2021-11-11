@@ -1,0 +1,43 @@
+﻿.NavBar{
+   margin-top:100px;
+}
+
+
+#fav-renderd {
+    position:relative;
+    bottom:80px;
+    left:250px;
+    color: green;
+}
+
+
+
+
+#list-renderd{
+    flex:auto;
+    margin-bottom:50px;
+}
+
+
+
+.movies-container{
+    display:flex;
+   flex-wrap:wrap;
+
+}
+.list-container {
+
+   flex: 50%;
+   margin-top: 70px;
+   font-family:monospace;
+}
+
+.list-item{
+    background-color : lightsteelblue;
+    cursor : pointer;
+}
+
+.initial-list-view{
+   margin-top:155px;
+}
+

@@ -1,0 +1,21 @@
+﻿@import url(https://allfont.net/allfont.css?fonts=star-jedi);
+
+#MovieDetails {
+  flex:50%;
+  background-color:lightsteelblue;
+  font-family:monospace;
+  width:110%;
+}
+
+#movie-title {
+    font-family: 'Star Jedi', arial;
+    font-size: 38px;
+    text-shadow: 4px 4px 4px #aaa;
+    margin-left: 30px;
+}
+
+#make-fav-button{
+  margin-left: 150px;
+  margin-bottom: 10px;
+}
+
